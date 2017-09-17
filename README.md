@@ -1,4 +1,5 @@
 # mp3_player
+# simple mp3player with BASS library
 The MP3 Player program supports playlists, basic operations for working with audio.
 
 The program is designed to work in the Windows operating system.
