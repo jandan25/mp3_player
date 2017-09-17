@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.369,K:\old hard\инст\курс1 семестр2\курсовой\redim\mp3exe\osc_vis.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,K:\old hard\инст\курс1 семестр2\курсовой\mp3exe\Unit1.dfm=K:\old hard\инст\курс1 семестр2\курсовой\mp3exe\mp3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,K:\old hard\инст\курс1 семестр2\курсовой\mp3exe\Unit1.pas=K:\old hard\инст\курс1 семестр2\курсовой\mp3exe\mp3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,=K:\old hard\инст\курс1 семестр2\курсовой\redim\mp3exe\osc_vis.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,=K:\old hard\инст\курс1 семестр2\курсовой\mp3exe\bass.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,C:\Users\Demid\Documents\RAD Studio\Projects\Unit1.pas=K:\old hard\инст\курс1 семестр2\курсовой\mp3exe\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.070,=C:\Users\Demid\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,K:\old hard\инст\курс1 семестр2\курсовой\mp3exe\Project1.dproj=K:\old hard\инст\курс1 семестр2\курсовой\mp3exe\mp3player.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.825,=K:\old hard\инст\курс1 семестр2\курсовой\redim\mp3exe\circle_vis.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.647,K:\old hard\инст\курс1 семестр2\курсовой\redim\mp3exe\circle_vis.pas=K:\old hard\инст\курс1 семестр2\курсовой\redim\mp3exe\vis.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,C:\Users\Demid\Documents\RAD Studio\Projects\Unit1.dfm=K:\old hard\инст\курс1 семестр2\курсовой\mp3exe\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.538,K:\old hard\инст\курс1 семестр2\курсовой\redim\mp3exe\CommonTypes.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,=K:\old hard\инст\курс1 семестр2\курсовой\redim\mp3exe\CommonTypes.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.738,C:\Users\Demid\Documents\RAD Studio\Projects\Project1.dproj=K:\old hard\инст\курс1 семестр2\курсовой\mp3exe\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
